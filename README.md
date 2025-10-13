@@ -1,5 +1,11 @@
 ## Hi there 👋
 
+- Experiences
+  - 서울과학기술대학교 인공지능응용학과 2021.02 ~
+  - 네이버 부스트캠프 6기 웹 풀스택 과정 2021.06 ~ 2021.12 [프로젝트 링크](https://github.com/boostcampwm-2021/web22-boost-world-cup)
+- 🌱 I’m currently learning
+  - ps with c++ [solved.ac](https://solved.ac/profile/uhwan0723)
+  - java, spring
 <!--
 **giljung456/giljung456** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
